@@ -1,0 +1,2 @@
+Canonical live Vijayawada FloodReSQ DSS deployment shell.
+Heavy maps and run outputs are served by the FloodAstra backend, not committed here.
