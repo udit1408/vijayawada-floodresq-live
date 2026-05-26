@@ -4,7 +4,7 @@ Last verified: 2026-05-26 17:15 IST
 
 ## Link To Share
 
-https://broadcasting-trout-age-companion.trycloudflare.com/
+https://vijayawada.airesqclimsols.com/
 
 ## What This Link Serves
 
@@ -15,8 +15,8 @@ https://broadcasting-trout-age-companion.trycloudflare.com/
 
 ## Verification Endpoints
 
-- Health: https://broadcasting-trout-age-companion.trycloudflare.com/api/assistant/health
-- Nowcast options: https://broadcasting-trout-age-companion.trycloudflare.com/api/nowcast/options
+- Health: https://vijayawada.airesqclimsols.com/api/assistant/health
+- Nowcast options: https://vijayawada.airesqclimsols.com/api/nowcast/options
 
 ## Important Note
 

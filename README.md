@@ -4,7 +4,7 @@ Canonical public shell for the Vijayawada FloodReSQ live decision-support system
 
 Current verified stakeholder URL:
 
-https://broadcasting-trout-age-companion.trycloudflare.com/
+https://vijayawada.airesqclimsols.com/
 
 This static shell connects to the FloodAstra backend configured in `assets/config.js` for chat, live-data checks and GPU-backed nowcast runs.
 
